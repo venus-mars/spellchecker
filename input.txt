@@ -1,6 +1,4 @@
-5
-contan
-seroius
-pureli
-dose
-note
+3  
+hellp  
+pythn  
+mornin  
