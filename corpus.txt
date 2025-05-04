@@ -1,0 +1,4 @@
+hello world  
+hello python  
+good morning  
+END-OF-CORPUS
